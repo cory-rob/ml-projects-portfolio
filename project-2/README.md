@@ -1,20 +1,15 @@
 # Project 2
 
-Brief description of the project.
+Planned machine learning project.
 
 ## Objective
-State the goal of the project.
+Build and document a second machine learning project for my portfolio.
 
-## Tools Used
+## Status
+In progress.
+
+## Planned Tools
 - Python
 - Pandas
 - Scikit-learn
-
-## Process
-- Data collection
-- Data cleaning
-- Modeling
-- Evaluation
-
-## Results
-Add key outcomes here.
+- Jupyter Notebook
