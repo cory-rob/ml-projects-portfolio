@@ -11,3 +11,5 @@ Portfolio of AI, machine learning, and data science projects.
 - Machine Learning
 - Data Analysis
 - Visualization
+## License
+This project is licensed under the MIT License.
