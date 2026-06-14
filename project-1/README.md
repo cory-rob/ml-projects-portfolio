@@ -1,3 +1,15 @@
 # Project 1
 
-My first machine learning project.
+Planned machine learning project.
+
+## Objective
+Build and document a machine learning project for my portfolio.
+
+## Status
+In progress.
+
+## Planned Tools
+- Python
+- Pandas
+- Scikit-learn
+- Jupyter Notebook
