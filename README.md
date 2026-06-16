@@ -3,13 +3,21 @@
 Portfolio of AI, machine learning, and data science projects.
 
 ## Projects
-- [Project 2](./project-2)
+
+* [Project 2](./project-2)
+
 
 
 ## Skills
-- Python
-- Machine Learning
-- Data Analysis
-- Visualization
+
+* Python
+* Machine Learning
+* Data Analysis
+* Visualization
+
 ## License
+
 This project is licensed under the MIT License.
+
+Update README
+
