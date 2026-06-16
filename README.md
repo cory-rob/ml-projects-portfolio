@@ -1,6 +1,7 @@
 # ML Projects Portfolio
 
-Portfolio of AI, machine learning, and data science projects.
+A portfolio of AI, machine learning, NLP, and data science projects showcasing practical skills, tools, and applied workflows.
+
 
 ## Projects
 
